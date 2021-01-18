@@ -9,6 +9,8 @@
   --color-text-dark-mute: #607087;
 
   --color-border: #e6e8eb;
+
+  --color-secondary: lightgray;
 }
 
 * {
